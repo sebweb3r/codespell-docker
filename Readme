@@ -1,0 +1,4 @@
+
+docker: https://hub.docker.com/r/sebweb3r/codespell
+git: https://github.com/sebweb3r/codespell-docker
+codespell: https://github.com/codespell-project/codespell
